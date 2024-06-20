@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme
 
 title: io/github/denis-dbm/about
-description: Here you can know more about me and what I think (or did) about software, technology and, so on.
+description: Here you can know more about me and what I think (or did) about software, technology, and so on.
 show_downloads: false
